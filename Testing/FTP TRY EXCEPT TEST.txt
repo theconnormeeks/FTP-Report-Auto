@@ -1,0 +1,426 @@
+RDTF
+Inbound
+990
+(There ARE documents under: RDTF:FTP)
+
+RDTF
+Inbound
+210
+(There ARE documents under: RDTF:FTP)
+
+RDTF
+Inbound
+214
+(There ARE documents under: RDTF:FTP)
+
+RDTF
+FTP
+POD
+(There ARE documents under: RDTF:FTP)
+
+LRFD
+Inbound
+990
+(NO documents under: LRFD:FTP)
+
+LRFD
+Inbound
+210
+(NO documents under: LRFD:FTP)
+
+LRFD
+Inbound
+214
+(NO documents under: LRFD:FTP)
+
+618979255FTP
+Inbound
+990
+(NO documents under: LRFD:FTP)
+
+618979255FTP
+Inbound
+210
+(NO documents under: LRFD:FTP)
+
+618979255FTP
+Inbound
+214
+(NO documents under: LRFD:FTP)
+
+MFLD
+Inbound
+990
+(There ARE documents under: MFLD:FTP)
+
+MFLD
+Inbound
+210
+(There ARE documents under: MFLD:FTP)
+
+MFLD
+Inbound
+214
+(There ARE documents under: MFLD:FTP)
+
+MONOGRAM FOODS
+INBOUND
+POSTSHIP
+---This one threw 550 I can only retrieve regular files---
+(There ARE documents under: MONOGRAM:FTP)
+
+MONOGRAM FOODS
+INBOUND
+SALESORDER
+---This one threw 550 I can only retrieve regular files---
+(There ARE documents under: MONOGRAM:FTP)
+
+Test_Monogram
+INBOUND
+SALESORDER
+---This one threw 550 I can only retrieve regular files---
+(There ARE documents under: MONOGRAM:FTP)
+
+MONOGRAM FOODS
+INBOUND
+TRANSFERORDER
+---This one threw 550 I can only retrieve regular files---
+(There ARE documents under: MONOGRAM:FTP)
+
+MTEL
+Inbound
+990
+(There ARE documents under: MTEL:FTP)
+
+MTEL
+Inbound
+210
+(There ARE documents under: MTEL:FTP)
+
+MTEL
+Inbound
+214
+(There ARE documents under: MTEL:FTP)
+
+SUNBELT
+INBOUND
+PODETAIL
+(There ARE documents under: TMA - TOTAL MANAGEMENT ASSOCIATES:FTP)
+
+SUNBELT
+INBOUND
+LOCATION
+(There ARE documents under: TMA - TOTAL MANAGEMENT ASSOCIATES:FTP)
+
+SUNBELT
+INBOUND
+POHEADER
+(There ARE documents under: TMA - TOTAL MANAGEMENT ASSOCIATES:FTP)
+
+SUNBELT
+INBOUND
+ACCESSLIST
+(There ARE documents under: TMA - TOTAL MANAGEMENT ASSOCIATES:FTP)
+
+NCSS
+INBOUND
+214
+(There ARE documents under: TMA - TOTAL MANAGEMENT ASSOCIATES:FTP)
+
+ATT
+INBOUND
+FLATFILE
+(NO documents under: TMA - TOTAL MANAGEMENT ASSOCIATES:FTP)
+
+SUNBELT
+INBOUND
+210
+(There ARE documents under: TMA - TOTAL MANAGEMENT ASSOCIATES:FTP)
+
+METRO
+INBOUND
+METRO_204
+(There ARE documents under: METRO SCG:FTP)
+
+METRO
+INBOUND
+METRO_TRG
+(There ARE documents under: METRO SCG:FTP)
+
+METRO
+INBOUND
+220_FA
+(There ARE documents under: METRO SCG:FTP)
+
+METRO
+INBOUND
+220_FA_TRG
+(There ARE documents under: METRO SCG:FTP)
+
+METRO
+INBOUND
+945
+---This one threw 550 Can't change directory to...---
+(There ARE documents under: Vantree:FTP)
+
+METRO
+INBOUND
+944
+---This one threw 550 Can't change directory to...---
+(There ARE documents under: Vantree:FTP)
+
+CECO
+INBOUND
+PRESHIP
+(There ARE documents under: CECO-FTP:FTP)
+
+CECO
+INBOUND
+POSTSHIP
+(There ARE documents under: CECO-FTP:FTP)
+
+CECO
+INBOUND
+PRESHIPPRO
+(There ARE documents under: CECO-FTP:FTP)
+
+WIPG
+Inbound
+990
+(There ARE documents under: WIPG:FTP)
+
+WIPG
+Inbound
+210
+(There ARE documents under: WIPG:FTP)
+
+WIPG
+Inbound
+214
+(There ARE documents under: WIPG:FTP)
+
+CAZF
+Inbound
+990
+(NO documents under: CAZF:FTP)
+
+CAZF
+Inbound
+210
+(NO documents under: CAZF:FTP)
+
+CAZF
+Inbound
+214
+(NO documents under: CAZF:FTP)
+
+WARRELL
+INBOUND
+PO
+(NO documents under: Warrell:FTP)
+
+DOMINO
+INBOUND
+SALESORDER
+(NO documents under: DOMINO:FTP)
+
+XPO
+INBOUND
+INFOFILE
+(NO documents under: XPO:FTP)
+
+DKB
+INBOUND
+PRESHIP
+(NO documents under: DKB:FTP)
+
+STVV
+Inbound
+214
+(There ARE documents under: Stevens Transport:FTP)
+
+STVV
+Inbound
+990
+(There ARE documents under: Stevens Transport:FTP)
+
+STVV
+Inbound
+210
+(There ARE documents under: Stevens Transport:FTP)
+
+STTA
+Inbound
+990
+(There ARE documents under: Stevens Transport Intermodal:FTP)
+
+STTA
+Inbound
+210
+(There ARE documents under: Stevens Transport Intermodal:FTP)
+
+STTA
+Inbound
+214
+(There ARE documents under: Stevens Transport Intermodal:FTP)
+
+CDER
+Inbound
+990
+(NO documents under: Celadon Trucking:FTP)
+
+CDER
+Inbound
+210
+(NO documents under: Celadon Trucking:FTP)
+
+CDER
+Inbound
+214
+(NO documents under: Celadon Trucking:FTP)
+
+CDNK
+Inbound
+990
+(NO documents under: Celadon Trucking:FTP)
+
+CDNK
+Inbound
+210
+(NO documents under: Celadon Trucking:FTP)
+
+CDNK
+Inbound
+214
+(NO documents under: Celadon Trucking:FTP)
+
+KINETICO
+INBOUND
+PRESHIP
+(NO documents under: Kinetico:FTP)
+
+KINETICO
+INBOUND
+POSTSHIP
+(NO documents under: Kinetico:FTP)
+
+KINETICO
+OUTBOUND
+RETURNFILE
+(NO documents under: Kinetico:FTP)
+
+VRJT
+Inbound
+990
+(There ARE documents under: Veriha Trucking:FTP)
+
+VRJT
+Inbound
+210
+(There ARE documents under: Veriha Trucking:FTP)
+
+VRJT
+Inbound
+214
+(There ARE documents under: Veriha Trucking:FTP)
+
+DUNBARTON
+INBOUND
+POSTSHIP
+(NO documents under: DUNBARTON:FTP)
+
+MGXB
+Inbound
+990
+(There ARE documents under: Magnella:FTP)
+
+MGXB
+Inbound
+210
+(There ARE documents under: Magnella:FTP)
+
+MGXB
+Inbound
+214
+(There ARE documents under: Magnella:FTP)
+
+ADVANCE AUTO PARTS
+INBOUND
+204
+(There ARE documents under: AAP-INBOUND:FTP)
+
+ADVANCE AUTO PARTS
+Inbound
+997
+(There ARE documents under: AAP-INBOUND:FTP)
+
+HUNTER FAN
+INBOUND
+POSTSHIP
+(NO documents under: HunterFan:FTP)
+
+HUNTER FAN
+INBOUND
+PRESHIP
+(NO documents under: HunterFan:FTP)
+
+HUNTER FAN
+INBOUND
+CANCELSHIP
+(NO documents under: HunterFan:FTP)
+
+CMBD
+Inbound
+990
+(There ARE documents under: Combined Transport:FTP)
+
+CMBD
+Inbound
+210
+(There ARE documents under: Combined Transport:FTP)
+
+CMBD
+Inbound
+214
+(There ARE documents under: Combined Transport:FTP)
+
+CMBD
+FTP
+POD
+(There ARE documents under: Combined Transport:FTP)
+
+FRZF
+Inbound
+990
+(NO documents under: FFE Transport:FTP)
+
+FRZF
+Inbound
+210
+(NO documents under: FFE Transport:FTP)
+
+SUON
+Inbound
+990
+(NO documents under: Sutton Transport:FTP)
+
+SUON
+Inbound
+210
+(NO documents under: Sutton Transport:FTP)
+
+SUON
+Inbound
+214
+(NO documents under: Sutton Transport:FTP)
+
+OHL
+INBOUND
+STATUS
+(NO documents under: OHLedi:FTP)
+
+Email sent!
+
+Below you will find the files on each specified FTP client: 
+
+
